@@ -1,0 +1,2 @@
+Hello, this is my first note.
+Appended line: Learning fs and path modules!
