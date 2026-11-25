@@ -1,5 +1,7 @@
-// Name: Liezelle Mangunay
-// Activity: N3 - File Manager with fs and path
+// Full Name: Liezelle Mangunay
+// Section: IV-BSIT C
+// Activity Code: N3 - File Manager with fs and path
+// Date: November 25, 2026
 
 const fs = require('fs');
 const path = require('path');
