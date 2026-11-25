@@ -1,6 +1,7 @@
-// Name: Liezelle Mangunay
-// Section: IV BSIT-C
-// Activity: N2 - Modular Calculator
+// Full Name: Liezelle Mangunay
+// Section: IV-BSIT C
+// Activity Code: N2
+// Date: November 25, 2026
 
 const operations = require('./operations');
 const formatter = require('./formatter');
